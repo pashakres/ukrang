@@ -2,11 +2,9 @@
 Перша мова програмування українською!
 
 ### Встановлення та застосування
-
-pip3 install pyrogram
-
-from ukrang import *
+Завантажте файл ukrang.py у папку з вашим проектом
+та підключіть командою: from ukrang import *
 
 ### Увага
 
-Не використовуйте: import ukrang
+Не використовуйте: import ukrang, лише from ukrang import *
